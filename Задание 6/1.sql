@@ -1,0 +1,1 @@
+SELECT `NumDoc`,`DateWrt`,`Creator` FROM `stkdocs`
